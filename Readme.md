@@ -1,5 +1,7 @@
 # mytest
 
+1. test-changeで変更します。
+
 1. VSCodeのFile->Open Folderから、新しいフォルダーを作ってそこを指定する。  
 
 1. package.jsonを作る。  
